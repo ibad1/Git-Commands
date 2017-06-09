@@ -1,8 +1,6 @@
 # Git-Commands
 Daily use Git console commands
-
-Here's a list of basic Git commands that I use daily for dev. 
-
+ 
 ## Clone
 Starting with the basics, this command makes a copy of the remote to the local machine.
 
